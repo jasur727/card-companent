@@ -1,0 +1,73 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.visa-card{
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.card{
+  font-family: 'Lexend Deca', sans-serif;
+  margin: 0;
+  width: 307px;
+  height: 500px;
+  border-radius: 8px;
+  margin-top: 100px;
+}
+
+.card img{
+  margin-top: 48px;
+  margin-left: 35px;
+}
+
+.card a{
+  font-family: 'Arial';
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 25px;
+  margin-left: 35px;
+  color: #E28625;
+  padding: 12px 31px;
+  border: 2px solid rgb(255, 255, 255);
+  background-color: #fff;
+  border-radius: 25px;
+}
+
+.card p{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 25px;
+  color: #FFFFFF;
+  width: 212px;
+  margin-left: 35px;
+  margin-bottom: 94px;
+
+}
+
+.card h1{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 48px;
+  text-transform: uppercase;
+  color: #F2F2F2;
+  margin-left: 35px;
+  margin-bottom: 25px;
+}
+
+.card-gold{
+  background-color: #E28625;
+}
+
+.card2{
+  background-color: #006971;
+}
+
+.card-green{
+  background-color: #004140;
+}
